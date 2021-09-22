@@ -1,5 +1,5 @@
-## 贾智杰(Zhijie Jia)
-> zhijie_jia@xjtu.edu.cn
+## 杜克锐(Kerry Du)
+> kerrydu AT xmu.edu.cn
 
 ---
 Welcome to my homepage!
