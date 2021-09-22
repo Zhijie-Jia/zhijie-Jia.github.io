@@ -1,21 +1,9 @@
 
 ## 贾智杰(Zhijie Jia)
-<!--15%-->
+<!--20%-->
 <div align=left>
-<img src="https://avatars.githubusercontent.com/u/91136898?s=400&u=dc18d7e52c902786991b15748b8c4e4ff2ba5006&v=4" width="100%" ></img>
+<img src="https://avatars.githubusercontent.com/u/91136898?s=400&u=dc18d7e52c902786991b15748b8c4e4ff2ba5006&v=4" width="15%" ></img>
 </div>
-
-<center>
-<img style="border-radius: 0.3125em;
-box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-src="https://avatars.githubusercontent.com/u/91136898?s=400&u=dc18d7e52c902786991b15748b8c4e4ff2ba5006&v=4"  width="15%" alt=""/>
-<br>
-<div style="color:orange; border-bottom: 1px solid #d9d9d9;
-display: inline-block;
-color: #999;
-padding: 2px;">avatars</div>
-</center>
-
 
 > zjjia_cn@163.com
 > zhijie_jia@xjtu.edu.cn
