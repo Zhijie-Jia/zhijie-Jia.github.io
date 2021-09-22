@@ -1,5 +1,5 @@
 
-## 贾智杰(Zhijie Jia)
+## **贾智杰(Zhijie Jia)**
 <!--20%-->
 <div align=left>
 <img src="https://avatars.githubusercontent.com/u/91136898?s=400&u=dc18d7e52c902786991b15748b8c4e4ff2ba5006&v=4" width="18%" >
