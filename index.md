@@ -2,14 +2,14 @@
 ## 贾智杰(Zhijie Jia)
 <!--20%-->
 <div align=left>
-<img src="https://avatars.githubusercontent.com/u/91136898?s=400&u=dc18d7e52c902786991b15748b8c4e4ff2ba5006&v=4" width="15%" ></img>
+<img src="https://avatars.githubusercontent.com/u/91136898?s=400&u=dc18d7e52c902786991b15748b8c4e4ff2ba5006&v=4" width="15%" >
 </div>
 
-> zjjia_cn@163.com
-> zhijie_jia@xjtu.edu.cn
-> Researcher ID: E-7122-2017
-> Scopus Author ID: 57183510300
-> ResearchGate: https://www.researchgate.net/profile/Zhijie-Jia
+* zjjia_cn@163.com
+* zhijie_jia@xjtu.edu.cn
+* Researcher ID: E-7122-2017
+* Scopus Author ID: 57183510300
+* ResearchGate: https://www.researchgate.net/profile/Zhijie-Jia
 
 
 ---
