@@ -6,6 +6,7 @@
 ---
 ### About me
 主要研究方向为环境经济与能源经济。共发表中文最优/SSCI/SCI等论文20余篇，H指数14，总被引：英文650次，中文44次；共有四篇论文入选ESI高被引论文。代表性成果发表在《经济研究》、Nature子刊、ABS三星期刊（Energy Economics等）、SCI检索的TOP期刊上。参与审稿超100篇，是Nature Energy, Journal of Environmental Economics and Management, Ecological Economics, Energy Economics, Energy Policy等杂志的审稿人。
+
 ---
 ### 工作经历
 2021年7月至今，西安交通大学经济与金融学院，助理教授
