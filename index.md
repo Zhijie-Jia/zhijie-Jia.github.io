@@ -14,11 +14,13 @@
 ---
 ### 关于我 About me
 主要研究方向为环境经济与能源经济。共发表中文最优/SSCI/SCI等论文20余篇，H指数14，总被引：英文650次，中文44次；共有四篇论文入选ESI高被引论文。代表性成果发表在《经济研究》、Nature子刊、ABS三星期刊（Energy Economics等）、SCI检索的TOP期刊上。参与审稿超100篇，是Nature Energy, Journal of Environmental Economics and Management, Ecological Economics, Energy Economics, Energy Policy等杂志的审稿人。
+
 His main research interests are environmental and energy economics. He has published more than 20 papers in Chinese TOP journal, SSCI-indexed journals, and SCI-indexed journals. His H index is 14 and has been cited over 650 times in English and 44 times in Chinese. 4 papers have been selected into ESCI highly cited papers. Representative achievements have been published in economic research (in Chinese), Nature babies journal, ABS Journal (energy economics, etc.), and top journals indexed by SCI (Applied Energy, etc.). He is a reviewer in many journals, such as Nature Energy, Journal of Environmental Economics and Management, Ecological Economics, Energy Economics, Energy Policy.
 
 ---
 ### 工作经历 Working Experience
 2021年7月至今，西安交通大学经济与金融学院，助理教授
+
 July 2021 to now, Assistant Professor, School of Economics and Finance, Xi'an Jiaotong University
 
 ---
@@ -53,13 +55,14 @@ July 2021 to now, Assistant Professor, School of Economics and Finance, Xi'an Ji
 ---
 ### 期刊评审 Journal Reviewer
 * SSCI期刊：*Journal of Environmental Economics and Management, the Energy Journal, Energy Economics, Ecological Economics, Energy Policy, China Economic Review, Applied Economics, Climate Policy, Emerging Market Finance and Trade, Energy Strategy Review, Journal of Environmental Management, Contemporary Economic Policy, Resources Policy, Journal of Global Information Management, International Review of Economics And Finance, Carbon Management, Sustainable Production and Consumption*
-* SSCI-indexed Journal: *Journal of Environmental Economics and Management, the Energy Journal, Energy Economics, Ecological Economics, Energy Policy, China Economic Review, Applied Economics, Climate Policy, Emerging Market Finance and Trade, Energy Strategy Review, Journal of Environmental Management, Contemporary Economic Policy, Resources Policy, Journal of Global Information Management, International Review of Economics And Finance, Carbon Management, Sustainable Production and Consumption*
-
 * SCI期刊：*Nature Energy, One Earth, Applied Energy, Journal of Cleaner Production, Science of the Total Environment, Journal of Chemistry, Environmental Research, Environmental Impact Assessment Review*
+
+* SSCI-indexed Journal: *Journal of Environmental Economics and Management, the Energy Journal, Energy Economics, Ecological Economics, Energy Policy, China Economic Review, Applied Economics, Climate Policy, Emerging Market Finance and Trade, Energy Strategy Review, Journal of Environmental Management, Contemporary Economic Policy, Resources Policy, Journal of Global Information Management, International Review of Economics And Finance, Carbon Management, Sustainable Production and Consumption*
 * SCI-indexed Journal: *Nature Energy, One Earth, Applied Energy, Journal of Cleaner Production, Science of the Total Environment, Journal of Chemistry, Environmental Research, Environmental Impact Assessment Review*
 
 ---
 ### 学术兼职 Academic Membership
 * The International Association for Energy Economics (IAEE)，会员
+
 * The International Association for Energy Economics (IAEE)，membership
 
