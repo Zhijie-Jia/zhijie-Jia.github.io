@@ -5,22 +5,22 @@
 <img src="https://avatars.githubusercontent.com/u/91136898?s=400&u=dc18d7e52c902786991b15748b8c4e4ff2ba5006&v=4" width="18%" >
 </div>
 
-<p align="left">zjjia_cn@163.com</p>
-<p align="left">zhijie_jia@xjtu.edu.cn</p>
+<p align="left">zjjia_cn@163.com; zhijie_jia@xjtu.edu.cn</p>
 <p align="left">Researcher ID: E-7122-2017</p>
 <p align="left">Scopus Author ID: 57183510300</p>
 <p align="left">ResearchGate: https://www.researchgate.net/profile/Zhijie-Jia</p>
+<p align="left">个人主页（Personal homepage）：https://zhijie-jia.github.io/</p>
 
 ---
-### About me
+### 关于我 About me
 主要研究方向为环境经济与能源经济。共发表中文最优/SSCI/SCI等论文20余篇，H指数14，总被引：英文650次，中文44次；共有四篇论文入选ESI高被引论文。代表性成果发表在《经济研究》、Nature子刊、ABS三星期刊（Energy Economics等）、SCI检索的TOP期刊上。参与审稿超100篇，是Nature Energy, Journal of Environmental Economics and Management, Ecological Economics, Energy Economics, Energy Policy等杂志的审稿人。
 
 ---
-### 工作经历
+### 工作经历 Working Experience
 2021年7月至今，西安交通大学经济与金融学院，助理教授
 
 ---
-### 研究方向
+### 研究方向 Research direction
 能源环境经济与管理
 
 ---
@@ -54,7 +54,7 @@
 
 ---
 ### 期刊评审
-* SSCI期刊：*Journal of Environmental Economics and Management, the Energy Journal, Energy Economics, Ecological Economics, Energy Policy, China Economic Review, Applied Economics, Emerging Market Finance and Trade, Energy Strategy Review, Journal of Environmental Management, Contemporary Economic Policy, Resources Policy, Journal of Global Information Management, International Review of Economics And Finance, Carbon Management, Sustainable Production and Consumption*
+* SSCI期刊：*Journal of Environmental Economics and Management, the Energy Journal, Energy Economics, Ecological Economics, Energy Policy, China Economic Review, Applied Economics, Climate Policy, Emerging Market Finance and Trade, Energy Strategy Review, Journal of Environmental Management, Contemporary Economic Policy, Resources Policy, Journal of Global Information Management, International Review of Economics And Finance, Carbon Management, Sustainable Production and Consumption*
 * SCI期刊：*Nature Energy, One Earth, Applied Energy, Journal of Cleaner Production, Science of the Total Environment, Journal of Chemistry, Environmental Research, Environmental Impact Assessment Review*
 
 ---
