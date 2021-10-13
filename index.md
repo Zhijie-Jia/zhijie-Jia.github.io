@@ -15,9 +15,9 @@
 
 ---
 ### 关于我 About me
-主要研究方向为环境经济与能源经济。共发表中文最优/SSCI/SCI等论文20余篇，H指数14，总被引：英文650次，中文44次；共有四篇论文入选ESI高被引论文。代表性成果发表在《经济研究》、Nature子刊、ABS三星期刊（Energy Economics等）、SCI检索的TOP期刊上。参与审稿超100篇，是Nature Energy, Journal of Environmental Economics and Management, Ecological Economics, Energy Economics, Energy Policy等杂志的审稿人。
+主要研究方向为环境经济与能源经济。共发表中文最优/SSCI/SCI等论文20余篇，H指数14，总被引：英文650次，中文44次；共有四篇论文入选ESI高被引论文。代表性成果发表在《经济研究》、Nature子刊、ABS三星期刊（Energy Economics、Technological Forecasting and Social Change等）、SCI检索的TOP期刊（Applied Energy等）上。参与审稿超100篇，是Nature Energy, Journal of Environmental Economics and Management, Ecological Economics, Energy Economics, Energy Policy等杂志的审稿人。
 
-His main research interests are environmental and energy economics. He has published more than 20 papers in Chinese TOP journal, SSCI-indexed journals, and SCI-indexed journals. His H index is 14 and has been cited over 650 times in English and 44 times in Chinese. 4 papers have been selected into ESCI highly cited papers. Representative achievements have been published in economic research (in Chinese), Nature babies journal, ABS Journal (energy economics, etc.), and top journals indexed by SCI (Applied Energy, etc.). He is a reviewer in many journals, such as Nature Energy, Journal of Environmental Economics and Management, Ecological Economics, Energy Economics, Energy Policy.
+His main research interests are environmental and energy economics. He has published more than 20 papers in Chinese TOP journal, SSCI-indexed journals, and SCI-indexed journals. His H index is 14 and has been cited over 650 times in English and 44 times in Chinese. 4 papers have been selected into ESCI highly cited papers. Representative achievements have been published in Economic Research (in Chinese), Nature babies journal, ABS Journal (Energy Economics, Technological Forecasting and Social Change, etc.), and top journals indexed by SCI (Applied Energy, etc.). He is a reviewer in many journals, such as Nature Energy, Journal of Environmental Economics and Management, Ecological Economics, Energy Economics, Energy Policy.
 
 ---
 ### 工作经历 Working Experience
