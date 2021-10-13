@@ -7,8 +7,10 @@
 
 <p align="left">zjjia_cn@163.com; zhijie_jia@xjtu.edu.cn</p>
 <p align="left">Researcher ID: E-7122-2017</p>
+<p align="left">ORCID: 0000-0003-4569-5558</p>
 <p align="left">Scopus Author ID: 57183510300</p>
 <p align="left">ResearchGate: https://www.researchgate.net/profile/Zhijie-Jia</p>
+
 <p align="left">个人主页（Personal homepage）：https://zhijie-jia.github.io/</p>
 
 ---
