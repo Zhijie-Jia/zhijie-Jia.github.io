@@ -69,3 +69,10 @@ July 2021 to now, Assistant Professor, School of Economics and Finance, Xi'an Ji
 * The International Association for Energy Economics (IAEE)，membership
 
 
+---
+### 获奖情况 Awards
+* 福建省第十四届社会科学优秀成果奖，一等奖（杨莉莎, 朱俊鹏, **贾智杰***. 中国碳减排实现的影响因素和当前挑战——基于技术进步的视角）
+
+* The 14th excellent achievement award of Social Sciences in Fujian Province, first prize (Lisha Yang, Junpeng Zhu, **Zhijie Jia***. Influencing factors and current challenges of China's carbon emission reduction -- from the perspective of technological progress)
+
+
