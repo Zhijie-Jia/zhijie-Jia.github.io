@@ -26,6 +26,12 @@ His main research interests are environmental and energy economics. He has publi
 July 2021 to now, Assistant Professor, School of Economics and Finance, Xi'an Jiaotong University
 
 ---
+### 授课经历 Teaching Experience
+《统计学》（本科生）、《资源与环境经济学》（本科生）
+
+Statistics (for undergraduates), Resource and Environmental Economics (for undergraduates)
+
+---
 ### 论文发表 Paper Publication
 1.  Wen S, **Jia Z***, Chen X. [Can low-carbon city pilot policies significantly improve carbon emission efficiency? Empirical evidence from China](https://doi.org/10.1016/j.jclepro.2022.131131). Journal of Cleaner Production 2022; avaiable online: 131131 
 2.  **Jia Z**, Lin B. [Is the rebound effect useless? A case study on the technological progress of the power industry](https://doi.org/10.1016/j.energy.2022.123570). Energy 2022;248: 123570.
