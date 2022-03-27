@@ -75,9 +75,11 @@ Statistics (for undergraduates), Resource and Environmental Economics (for under
 ### 学术兼职 Academic Membership
 * 2021-2022，The International Association for Energy Economics (IAEE)，会员
 * 2021-2022，Sustainability，客座编辑
+* 2022-2026，中国能源协会专家委员会，委员
 
 * 2021-2022，The International Association for Energy Economics (IAEE)，membership
 * 2021-2022，Sustainability，Guest Editor
+* 2022-2026，Expert Committee of China Energy Society，Committee Member
 
 ---
 ### 获奖情况 Awards
