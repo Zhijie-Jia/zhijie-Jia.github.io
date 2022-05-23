@@ -15,7 +15,7 @@
 
 ---
 ### 关于我 About me
-主要研究方向为环境经济与能源经济。共发表中文最优/SSCI/SCI等论文30余篇，英文H指数15。总被引：英文820次，中文53次；累计多篇论文入选ESI高被引论文。代表性成果发表在《经济研究》、Nature子刊、ABS三星期刊（Energy Economics、Technological Forecasting and Social Change等）、SCI检索的TOP期刊（Applied Energy等）上。参与审稿超100篇，是Nature Energy, Journal of Environmental Economics and Management, Ecological Economics, Energy Economics, Energy Policy等杂志的审稿人。
+主要研究方向为环境经济与能源经济。共发表中文最优/SSCI/SCI等论文30余篇，英文H指数16。总被引：英文900余次，中文53次；累计多篇论文入选ESI高被引论文。代表性成果发表在《经济研究》、Nature子刊、ABS三星期刊（Energy Economics、Technological Forecasting and Social Change等）、SCI检索的TOP期刊（Applied Energy等）上。参与审稿超100篇，是Nature Energy, Journal of Environmental Economics and Management, Ecological Economics, Energy Economics, Energy Policy等杂志的审稿人。
 
 His main research interests are environmental and energy economics. He has published more than 30 papers in Chinese TOP journal, SSCI-indexed journals, and SCI-indexed journals. His H index is 15 and has been cited over 820 times in English journals and 53 times in Chinese journals. Several papers have been selected into ESI highly cited papers. Representative achievements have been published in Economic Research (in Chinese), Nature babies journal, ABS Journal (Energy Economics, Technological Forecasting and Social Change, etc.), and top journals indexed by SCI (Applied Energy, etc.). He is a reviewer in many journals, such as Nature Energy, Journal of Environmental Economics and Management, Ecological Economics, Energy Economics, and Applied Energy.
 
