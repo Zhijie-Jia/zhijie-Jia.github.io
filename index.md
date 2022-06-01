@@ -88,4 +88,8 @@ Statistics (for undergraduates), Resource and Environmental Economics (for under
 
 * The 14th excellent achievement award of Social Sciences in Fujian Province, first prize (Lisha Yang, Junpeng Zhu, **Zhijie Jia***. Influencing factors and current challenges of China's carbon emission reduction -- from the perspective of technological progress)
 
+---
+### 开放获取 Open Access
+* [中国能源-环境-经济分析CGE模型](https://github.com/Zhijie-Jia/CEEEA2.0-CGE)
 
+* [China Energy-Environment-Economy Analysis Model 2.0 (CEEEA2.0/CGE model)](https://github.com/Zhijie-Jia/CEEEA2.0-CGE)
