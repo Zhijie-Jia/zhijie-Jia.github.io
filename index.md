@@ -66,9 +66,10 @@ Statistics (for overseas undergraduates), Resource and Environmental Economics (
 31. Li W, **Jia Z**, Zhang H. [The impact of electric vehicles and CCS in the context of emission trading scheme in China: A CGE-based analysis](https://doi.org/10.1016/j.energy.2016.11.059). Energy 2017;119:800–16. 
 32. Li W, **Jia Z**. [The impact of emission trading scheme and the ratio of free quota: A dynamic recursive CGE model in China](https://doi.org/10.1016/j.apenergy.2016.04.086). Applied Energy 2016;174:1–14. **(2019-09 ESI highly cited paper)**
 33. Li W, **Jia Z**. [Carbon tax, emission trading, or the mixed policy: which is the most effective strategy for climate change mitigation in China? ](https://doi.org/10.1007/s11027-016-9710-3) Mitigation and Adaptation Strategies for Global Change 2017;22:973–92.
-
+（* 为通讯作者；* represents corresponding author）
 ---
 ### 期刊评审 Journal Reviewer
+
 * SSCI期刊：*Journal of Environmental Economics and Management, the Energy Journal, Energy Economics, Ecological Economics, Energy Policy, China Economic Review, Applied Economics, Climate Policy, Emerging Market Finance and Trade, Energy Strategy Review, Journal of Environmental Management, Contemporary Economic Policy, Resources Policy, Journal of Global Information Management, International Review of Economics And Finance, Carbon Management, Sustainable Production and Consumption*
 * SCI期刊：*Nature Energy, One Earth, Applied Energy, Journal of Cleaner Production, Science of the Total Environment, Journal of Chemistry, Environmental Research, Environmental Impact Assessment Review*
 
@@ -77,6 +78,7 @@ Statistics (for overseas undergraduates), Resource and Environmental Economics (
 
 ---
 ### 学术兼职 Academic Membership
+
 * 2021-2022，The International Association for Energy Economics (IAEE)，会员
 * 2021-2022，Sustainability，客座编辑
 * 2022-2026，中国能源协会专家委员会，委员
@@ -87,12 +89,14 @@ Statistics (for overseas undergraduates), Resource and Environmental Economics (
 
 ---
 ### 获奖情况 Awards
+
 * 福建省第十四届社会科学优秀成果奖，一等奖（杨莉莎, 朱俊鹏, **贾智杰***. 中国碳减排实现的影响因素和当前挑战——基于技术进步的视角）
 
 * The 14th excellent achievement award of Social Sciences in Fujian Province, first prize (Lisha Yang, Junpeng Zhu, **Zhijie Jia***. Influencing factors and current challenges of China's carbon emission reduction -- from the perspective of technological progress)
 
 ---
 ### 开放获取 Open Access
+
 * [中国能源-环境-经济分析CGE模型](https://github.com/Zhijie-Jia/CEEEA2.0-CGE)
 
 * [China Energy-Environment-Economy Analysis Model 2.0 (CEEEA2.0/CGE model)](https://github.com/Zhijie-Jia/CEEEA2.0-CGE)
