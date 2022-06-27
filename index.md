@@ -66,7 +66,9 @@ Statistics (for overseas undergraduates), Resource and Environmental Economics (
 31. Li W, **Jia Z**, Zhang H. [The impact of electric vehicles and CCS in the context of emission trading scheme in China: A CGE-based analysis](https://doi.org/10.1016/j.energy.2016.11.059). Energy 2017;119:800–16. 
 32. Li W, **Jia Z**. [The impact of emission trading scheme and the ratio of free quota: A dynamic recursive CGE model in China](https://doi.org/10.1016/j.apenergy.2016.04.086). Applied Energy 2016;174:1–14. **(2019-09 ESI highly cited paper)**
 33. Li W, **Jia Z**. [Carbon tax, emission trading, or the mixed policy: which is the most effective strategy for climate change mitigation in China? ](https://doi.org/10.1007/s11027-016-9710-3) Mitigation and Adaptation Strategies for Global Change 2017;22:973–92.
+
 （* 为通讯作者；* represents corresponding author）
+
 ---
 ### 期刊评审 Journal Reviewer
 
