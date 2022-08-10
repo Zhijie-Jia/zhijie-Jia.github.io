@@ -73,11 +73,11 @@ Statistics (for overseas undergraduates), Resource and Environmental Economics�
 ---
 ### 期刊评审 Journal Reviewer
 
-* SSCI期刊：*Journal of Environmental Economics and Management, the Energy Journal, Energy Economics, Ecological Economics, Energy Policy, China Economic Review, Applied Economics, Humanities and Social Sciences Communications， Climate Policy, Emerging Market Finance and Trade, Energy Strategy Review, Journal of Environmental Management, Contemporary Economic Policy, Resources Policy, Journal of Global Information Management, International Review of Economics And Finance, Carbon Management, Sustainable Production and Consumption*
-* SCI期刊：*Nature Energy, One Earth, Applied Energy, Journal of Cleaner Production, Science of the Total Environment, Journal of Chemistry, Environmental Research, Environmental Impact Assessment Review*
+* SSCI期刊：*Journal of Environmental Economics and Management, the Energy Journal, Energy Economics, Ecological Economics, Energy Policy, China Economic Review, Applied Economics, Humanities and Social Sciences Communications， Climate Policy, Emerging Market Finance and Trade, Energy Strategy Review, Journal of Environmental Management, Contemporary Economic Policy, Resources Policy, Environmental Impact Assessment Review, Journal of Global Information Management, International Review of Economics And Finance, Carbon Management, Sustainable Production and Consumption*
+* SCI期刊：*Nature Energy, One Earth, Applied Energy, Journal of Cleaner Production, Science of the Total Environment, Journal of Chemistry, Environmental Research*
 
-* SSCI-indexed Journal: *Journal of Environmental Economics and Management, the Energy Journal, Energy Economics, Ecological Economics, Energy Policy, China Economic Review, Applied Economics, Humanities and Social Sciences Communications， Climate Policy, Emerging Market Finance and Trade, Energy Strategy Review, Journal of Environmental Management, Contemporary Economic Policy, Resources Policy, Journal of Global Information Management, International Review of Economics And Finance, Carbon Management, Sustainable Production and Consumption*
-* SCI-indexed Journal: *Nature Energy, One Earth, Applied Energy, Journal of Cleaner Production, Science of the Total Environment, Journal of Chemistry, Environmental Research, Environmental Impact Assessment Review*
+* SSCI-indexed Journal: *Journal of Environmental Economics and Management, the Energy Journal, Energy Economics, Ecological Economics, Energy Policy, China Economic Review, Applied Economics, Humanities and Social Sciences Communications， Climate Policy, Emerging Market Finance and Trade, Energy Strategy Review, Journal of Environmental Management, Contemporary Economic Policy, Resources Policy, Environmental Impact Assessment Review, Journal of Global Information Management, International Review of Economics And Finance, Carbon Management, Sustainable Production and Consumption*
+* SCI-indexed Journal: *Nature Energy, One Earth, Applied Energy, Journal of Cleaner Production, Science of the Total Environment, Journal of Chemistry, Environmental Research*
 
 ---
 ### 学术兼职 Academic Membership
@@ -92,9 +92,11 @@ Statistics (for overseas undergraduates), Resource and Environmental Economics�
 
 ---
 ### 纵向课题 Foundationo
-1.  国家自然科学基金委员会，《环境规制与中国城市经济绿色转型：基于绿色技术进步和产业结构升级视角的研究》，面上项目，参与人 
-2.  教育部，《碳中和框架下碳定价公平性研究——基于隐含碳排放和社会福利的视角》，青年项目，负责人
-3.  陕西省社会科学界联合会，《碳中和框架下陕西省能源-环境-经济综合评估模型与碳定价政策评估》，哲学社会科学重大理论与现实问题研究一般项目，负责人
+1.  国家社会科学基金委员会，《实现碳达峰碳中和目标的路径优化、政策引导与风险管控研究》，重点项目，参与人
+2.  国家自然科学基金委员会，《环境规制与中国城市经济绿色转型：基于绿色技术进步和产业结构升级视角的研究》，面上项目，参与人 
+3.  教育部人文社会科学基金，《碳中和框架下碳定价公平性研究——基于隐含碳排放和社会福利的视角》，青年项目，负责人
+4.  陕西省社会科学界联合会，《碳中和框架下陕西省能源-环境-经济综合评估模型与碳定价政策评估》，哲学社会科学重大理论与现实问题研究一般项目，负责人
+5.  教育部人文社会科学基金，《“双碳”目标背景下中国能源基础设施投资的经济增长效应和区域布局研究》，一般项目，负责人
 
 ---
 ### 获奖情况 Awards
