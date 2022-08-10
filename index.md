@@ -91,7 +91,7 @@ Statistics (for overseas undergraduates), Resource and Environmental Economics�
 * 2022-2026，Expert Committee of China Energy Society，Committee Member
 
 ---
-### 纵向课题 Foundationo
+### 纵向课题 Funds
 1.  国家社会科学基金委员会，《实现碳达峰碳中和目标的路径优化、政策引导与风险管控研究》，重点项目，参与人
 2.  国家自然科学基金委员会，《环境规制与中国城市经济绿色转型：基于绿色技术进步和产业结构升级视角的研究》，面上项目，参与人 
 3.  教育部人文社会科学基金，《碳中和框架下碳定价公平性研究——基于隐含碳排放和社会福利的视角》，青年项目，负责人
