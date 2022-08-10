@@ -26,9 +26,9 @@ July 2021 to now, Assistant Professor, School of Economics and Finance, Xi'an Ji
 
 ---
 ### 授课经历 Teaching Experience
-《统计学》（留学本科生）、《资源与环境经济学》（本科生）
+《统计学》（留学生）、《资源与环境经济学》、《微观经济学》（英文授课）
 
-Statistics (for overseas undergraduates), Resource and Environmental Economics (for undergraduates)
+Statistics (for overseas undergraduates), Resource and Environmental Economics， Microeconomics (English Teaching)
 
 ---
 ### 论文发表 Paper Publication
@@ -73,10 +73,10 @@ Statistics (for overseas undergraduates), Resource and Environmental Economics (
 ---
 ### 期刊评审 Journal Reviewer
 
-* SSCI期刊：*Journal of Environmental Economics and Management, the Energy Journal, Energy Economics, Ecological Economics, Energy Policy, China Economic Review, Applied Economics, Climate Policy, Emerging Market Finance and Trade, Energy Strategy Review, Journal of Environmental Management, Contemporary Economic Policy, Resources Policy, Journal of Global Information Management, International Review of Economics And Finance, Carbon Management, Sustainable Production and Consumption*
+* SSCI期刊：*Journal of Environmental Economics and Management, the Energy Journal, Energy Economics, Ecological Economics, Energy Policy, China Economic Review, Applied Economics, Humanities and Social Sciences Communications， Climate Policy, Emerging Market Finance and Trade, Energy Strategy Review, Journal of Environmental Management, Contemporary Economic Policy, Resources Policy, Journal of Global Information Management, International Review of Economics And Finance, Carbon Management, Sustainable Production and Consumption*
 * SCI期刊：*Nature Energy, One Earth, Applied Energy, Journal of Cleaner Production, Science of the Total Environment, Journal of Chemistry, Environmental Research, Environmental Impact Assessment Review*
 
-* SSCI-indexed Journal: *Journal of Environmental Economics and Management, the Energy Journal, Energy Economics, Ecological Economics, Energy Policy, China Economic Review, Applied Economics, Climate Policy, Emerging Market Finance and Trade, Energy Strategy Review, Journal of Environmental Management, Contemporary Economic Policy, Resources Policy, Journal of Global Information Management, International Review of Economics And Finance, Carbon Management, Sustainable Production and Consumption*
+* SSCI-indexed Journal: *Journal of Environmental Economics and Management, the Energy Journal, Energy Economics, Ecological Economics, Energy Policy, China Economic Review, Applied Economics, Humanities and Social Sciences Communications， Climate Policy, Emerging Market Finance and Trade, Energy Strategy Review, Journal of Environmental Management, Contemporary Economic Policy, Resources Policy, Journal of Global Information Management, International Review of Economics And Finance, Carbon Management, Sustainable Production and Consumption*
 * SCI-indexed Journal: *Nature Energy, One Earth, Applied Energy, Journal of Cleaner Production, Science of the Total Environment, Journal of Chemistry, Environmental Research, Environmental Impact Assessment Review*
 
 ---
