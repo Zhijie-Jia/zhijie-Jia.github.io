@@ -34,7 +34,7 @@ Statistics (for overseas undergraduates), Resource and Environmental Economics�
 ### 论文发表 Paper Publication
 
 1.  **Jia Z**, Wen S, Liu Y. [China’s urban-rural inequality caused by carbon neutrality: A perspective from carbon footprint and decomposed social welfare](https://doi.org/10.1016/j.eneco.2022.106193). Energy Economics 2022;113:106193. 
-2.  **贾智杰**，林伯强. 国有企业、价格管制与经济稳定——来自中国特色汽柴油市场的视角. 《中国·人口资源与环境》;已录用.
+2.  **贾智杰**，林伯强. [国有企业、价格管制与经济稳定——来自中国特色汽柴油市场的视角.](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=ZGRZ202207016&uniplatform=NZKPT&v=NmkrzrSzHcCnnqA5zFjzB85GfOk2KRLql0iBwQXoSml56TSmPPyzVF43abT7gO7j). 中国·人口资源与环境 2022;32(07).
 3.  **Jia Z***, Lin, B. [CEEEA2.0 model: A dynamic CGE model for energy-environment-economy analysis with available data and code](https://doi.org/10.1016/j.eneco.2022.106117). Energy Economics 2022;112:106117. 
 4.  Wen S., **Jia Z***. [The energy, environment and economy impact of coal resource tax, renewable investment, and total factor productivity growth](https://doi.org/10.1016/j.resourpol.2022.102742). Resources Policy 2022;77:102742.
 5.  **贾智杰**, 温师燕, 朱润清. [碳排放权交易与全要素碳效率——来自我国碳交易试点的证据](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=XMDS202202003&uniplatform=NZKPT&v=uGeh5Lf-ff0RqxCyunRqRsgOMuw71FYC0sXc8RdTpRw-PFwmRiZU6N6aGHsgybNG). 厦门大学学报(哲学社会科学版) 2022;72,21–34.
