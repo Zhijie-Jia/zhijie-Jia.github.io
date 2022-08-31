@@ -1,7 +1,7 @@
 name: ""
 description: "Lightweight theme"
 
-url: '' 
+url: 'https://zhijie-jia.github.io/' 
 baseurl: ''
 
 markdown: kramdown
