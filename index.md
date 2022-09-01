@@ -88,6 +88,7 @@ Statistics (for overseas undergraduates), Resource and Environmental Economics�
 * 2022-2026，中国能源协会专家委员会，委员
 * 2022-至今，Frontiers in Sustainable Energy Policy，编辑
 
+
 * 2021-2022，The International Association for Energy Economics (IAEE)，membership
 * 2021-2022，Sustainability，Guest Editor
 * 2022-2026，Expert Committee of China Energy Society，Committee Member
