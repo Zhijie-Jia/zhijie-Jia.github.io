@@ -75,10 +75,10 @@ Statistics (for overseas undergraduates), Resource and Environmental Economics�
 ### 期刊评审 Journal Reviewer
 
 * SSCI期刊：*Journal of Environmental Economics and Management, the Energy Journal, Energy Economics, Ecological Economics, Energy Policy, China Economic Review, Applied Economics, Land, Humanities and Social Sciences Communications， Climate Policy, Emerging Market Finance and Trade, Energy Strategy Review, Journal of Environmental Management, Contemporary Economic Policy, Resources Policy, Environmental Impact Assessment Review, Journal of Global Information Management, International Review of Economics And Finance, Carbon Management, Sustainable Production and Consumption, Environmental Science and Pollution Research*
-* SCI期刊：*Nature Energy, One Earth, Applied Energy, Journal of Cleaner Production, Science of the Total Environment, Journal of Chemistry, Environmental Research*
+* SCI期刊：*Nature Energy, One Earth, Applied Energy, Journal of Cleaner Production, Science of the Total Environment, Journal of Chemistry, Environmental Research, Journal of Environmental and Public Health*
 
 * SSCI-indexed Journal: *Journal of Environmental Economics and Management, the Energy Journal, Energy Economics, Ecological Economics, Energy Policy, China Economic Review, Applied Economics, Land, Humanities and Social Sciences Communications， Climate Policy, Emerging Market Finance and Trade, Energy Strategy Review, Journal of Environmental Management, Contemporary Economic Policy, Resources Policy, Environmental Impact Assessment Review, Journal of Global Information Management, International Review of Economics And Finance, Carbon Management, Sustainable Production and Consumption, Environmental Science and Pollution Research*
-* SCI-indexed Journal: *Nature Energy, One Earth, Applied Energy, Journal of Cleaner Production, Science of the Total Environment, Journal of Chemistry, Environmental Research*
+* SCI-indexed Journal: *Nature Energy, One Earth, Applied Energy, Journal of Cleaner Production, Science of the Total Environment, Journal of Chemistry, Environmental Research, Journal of Environmental and Public Health*
 
 ---
 ### 学术兼职 Academic Membership
