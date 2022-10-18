@@ -33,7 +33,7 @@ Statistics (for overseas undergraduates), Resource and Environmental Economics�
 ---
 ### 论文发表 Paper Publication
 
-1.  **Jia, Z** [What kind of enterprises and residents bear more responsibilities in carbon trading? A step-by-step analysis based on the CGE model.](https://doi.org/10.1016/j.eiar.2022.106950). Environmental Impact Assessment Review 2023;98:106950.
+1.  **Jia, Z.** [What kind of enterprises and residents bear more responsibilities in carbon trading? A step-by-step analysis based on the CGE model.](https://doi.org/10.1016/j.eiar.2022.106950). Environmental Impact Assessment Review 2023;98:106950.
 2.  Wen, S., **Jia, Z.***. [Resource curse or resource blessing : Perspective on the nonlinear and regional relationships in China.](https://doi.org/10.1016/j.jclepro.2022.133491). Journal of Cleaner Production 2022;371:133491. 
 3.  **Jia Z**, Wen S, Liu Y. [China’s urban-rural inequality caused by carbon neutrality: A perspective from carbon footprint and decomposed social welfare](https://doi.org/10.1016/j.eneco.2022.106193). Energy Economics 2022;113:106193. 
 4.  **贾智杰**，林伯强. [国有企业、价格管制与经济稳定——来自中国特色汽柴油市场的视角.](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=ZGRZ202207016&uniplatform=NZKPT&v=NmkrzrSzHcCnnqA5zFjzB85GfOk2KRLql0iBwQXoSml56TSmPPyzVF43abT7gO7j). 中国·人口资源与环境 2022;32(07).
