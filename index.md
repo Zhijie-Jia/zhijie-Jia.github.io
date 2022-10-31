@@ -33,7 +33,7 @@ Statistics (for overseas undergraduates), Resource and Environmental Economics�
 ---
 ### 论文发表 Paper Publication
 
-1.  **Jia Z.**, Lin B., Wen S. [Electricity market Reform: The perspective of price regulation and carbon neutrality.](https://doi.org/10.1016/j.apenergy.2022.120164). Applied Energy 2022;328:120164.
+1.  **Jia Z.**, Lin B., Wen S. [Electricity market Reform: The perspective of price regulation and carbon neutrality](https://doi.org/10.1016/j.apenergy.2022.120164). Applied Energy 2022;328:120164.
 2.  **Jia, Z.** [What kind of enterprises and residents bear more responsibilities in carbon trading? A step-by-step analysis based on the CGE model.](https://doi.org/10.1016/j.eiar.2022.106950). Environmental Impact Assessment Review 2023;98:106950.
 3.  Wen, S., **Jia, Z.***. [Resource curse or resource blessing : Perspective on the nonlinear and regional relationships in China.](https://doi.org/10.1016/j.jclepro.2022.133491) Journal of Cleaner Production 2022;371:133491. 
 4.  **Jia Z.**, Wen S., Liu Y. [China’s urban-rural inequality caused by carbon neutrality: A perspective from carbon footprint and decomposed social welfare](https://doi.org/10.1016/j.eneco.2022.106193). Energy Economics 2022;113:106193. 
