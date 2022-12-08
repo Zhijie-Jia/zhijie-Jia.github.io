@@ -122,5 +122,5 @@ Statistics (for overseas undergraduates), Resource and Environmental Economics�
 ---
 ### 报刊文章 Newspaper Article
 
-* 林伯强，贾智杰：[建立混合碳定价体系，提高碳减排效率](https://m.yicai.com/news/101617332.html)
-* Boqiang Lin and **Jia Zhijie**: [Establish a mixed carbon pricing system to improve carbon emission mitigation efficiency](https://m.yicai.com/news/101617332.html)
+* 林伯强，贾智杰：[建立混合碳定价体系，提高碳减排效率](https://m.yicai.com/news/101617332.html) ，《第一财经》，2022年12月
+* Boqiang Lin and **Jia Zhijie**: [Establish a mixed carbon pricing system to improve carbon emission mitigation efficiency](https://m.yicai.com/news/101617332.html)， YiCai, Decemember 2022
