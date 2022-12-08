@@ -118,3 +118,9 @@ Statistics (for overseas undergraduates), Resource and Environmental Economics�
 * [中国能源-环境-经济分析CGE模型](https://github.com/Zhijie-Jia/CEEEA2.0-CGE)
 
 * [China Energy-Environment-Economy Analysis Model 2.0 (CEEEA2.0/CGE model)](https://github.com/Zhijie-Jia/CEEEA2.0-CGE)
+
+---
+### 报刊文章 Newspaper Article
+
+* 林伯强，贾智杰：[建立混合碳定价体系，提高碳减排效率](https://m.yicai.com/news/101617332.html)
+* Boqiang Lin and **Jia Zhijie**: [Establish a mixed carbon pricing system to improve carbon emission mitigation efficiency](https://m.yicai.com/news/101617332.html)
