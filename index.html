@@ -72,6 +72,14 @@ body {
     overflow-x: hidden;
 }
 
+:lang(en),
+.subtitle,
+.site-nav a,
+.item-translation,
+.item-link {
+    font-family: "Aptos", "Segoe UI", Arial, sans-serif;
+}
+
 a {
     color: var(--accent-dark);
     text-decoration-thickness: 1px;
@@ -362,6 +370,14 @@ body > .container-lg.markdown-body:not(#home1):not(#home2):not(#home3):not(#home
     border: 1px solid var(--line) !important;
     border-left: 4px solid var(--accent) !important;
     border-radius: 8px !important;
+    box-shadow: 0 10px 22px rgba(23, 32, 42, 0.04);
+    transition: border-color 180ms ease, box-shadow 180ms ease, transform 180ms ease;
+}
+
+.bilingual-item:hover {
+    border-left-color: var(--warm) !important;
+    box-shadow: 0 16px 30px rgba(23, 32, 42, 0.08);
+    transform: translateY(-1px);
 }
 
 .bilingual-item p {
@@ -370,13 +386,17 @@ body > .container-lg.markdown-body:not(#home1):not(#home2):not(#home3):not(#home
 
 .item-title {
     color: var(--ink);
+    font-size: 16px;
     font-weight: 700;
+    line-height: 1.65;
 }
 
 .item-translation {
-    margin-top: 5px !important;
-    color: var(--muted);
-    font-size: 15px;
+    margin-top: 6px !important;
+    color: #25313d;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.65;
 }
 
 .item-meta {
@@ -384,6 +404,7 @@ body > .container-lg.markdown-body:not(#home1):not(#home2):not(#home3):not(#home
     color: var(--warm);
     font-size: 14px;
     font-weight: 650;
+    line-height: 1.55;
 }
 
 .item-links {
@@ -410,8 +431,88 @@ body > .container-lg.markdown-body:not(#home1):not(#home2):not(#home3):not(#home
     background: var(--warm);
 }
 
+.corresponding-legend {
+    display: inline-flex;
+    align-items: center;
+    min-height: 36px;
+    margin: 12px 0 0 !important;
+    padding: 7px 12px;
+    color: var(--accent-dark);
+    background: var(--soft);
+    border: 1px solid #cae4e1;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
 #home5 p {
     margin-bottom: 0;
+}
+
+.usage-statement {
+    margin-top: 28px;
+    padding: 22px;
+    background: linear-gradient(180deg, #fffaf4 0%, #ffffff 100%);
+    border: 1px solid #edcfaa;
+    border-left: 5px solid var(--warm);
+    border-radius: 8px;
+}
+
+.usage-heading {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 16px;
+}
+
+.usage-heading h3 {
+    margin: 0;
+    color: var(--ink);
+    font-size: 21px;
+}
+
+.usage-badge {
+    display: inline-flex;
+    align-items: center;
+    min-height: 32px;
+    padding: 0 11px;
+    color: #fff;
+    background: var(--warm);
+    border-radius: 8px;
+    font-family: "Aptos", "Segoe UI", Arial, sans-serif;
+    font-size: 13px;
+    font-weight: 750;
+}
+
+.usage-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 18px;
+}
+
+.usage-block {
+    padding: 16px;
+    background: rgba(255, 255, 255, 0.78);
+    border: 1px solid #ead9c5;
+    border-radius: 8px;
+}
+
+.usage-block h4 {
+    margin: 0 0 10px;
+    color: var(--accent-dark);
+    font-size: 16px;
+}
+
+.usage-statement p {
+    margin-bottom: 10px !important;
+    color: #2c3945;
+    line-height: 1.75;
+}
+
+.usage-statement p:last-child {
+    margin-bottom: 0 !important;
 }
 
 @media (max-width: 760px) {
@@ -486,6 +587,10 @@ body > .container-lg.markdown-body:not(#home1):not(#home2):not(#home3):not(#home
         display: flex;
         width: 100%;
         margin: 8px 0;
+    }
+
+    .usage-grid {
+        grid-template-columns: 1fr;
     }
 }
 </style>  
@@ -611,7 +716,7 @@ body > .container-lg.markdown-body:not(#home1):not(#home2):not(#home3):not(#home
 
 <ol>
   <li><strong>贾智杰.</strong> <a href="http://www.jqte.net/sljjjsjjyj/ch/reader/view_abstract.aspx?file_no=20260103&flag=1">收入差距、边际消费倾向与财政政策效果——基于中国财政政策评估模型的分析</a>. 数量经济技术经济研究 2026;(01)</li> 
-  <li>Wen, S., Zhang, Y., <strong>Jia, Z.</strong>, <a href="https://doi.org/10.1016/j.enpol.2026.115131">Revisiting instrument choices for low-carbon transitions : Carbon tax , emission trading , and resource tax.</a>. Energy Policy 2026;211:115131</li>   
+  <li>Wen, S., Zhang, Y., <strong>Jia, Z.</strong>*, <a href="https://doi.org/10.1016/j.enpol.2026.115131">Revisiting instrument choices for low-carbon transitions : Carbon tax , emission trading , and resource tax.</a>. Energy Policy 2026;211:115131</li>   
   <li><strong>Jia Z.</strong>,Liu, Y., Wu, R, Wen, S., Zhang, H., Lin, B. <a href="https://doi.org/10.1016/j.eneco.2025.108444">Optimal policy packages under policy and preference heterogeneities to address climate change</a>. Energy Economics 2025;145:108444</li>   
   <li><strong>Jia Z.</strong>, Zhang H. <a href="https://doi.org/10.1016/j.eneco.2025.108995">From carbon emission trading to inequality: The regressive effects of China’s ETS via residential carbon footprints</a>. Energy Economics 2025;152:108995.</li>
   <li><strong>Jia Z.</strong>, Wen, S., Wu, R. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0195925524002865">Synergistic effect of emission trading scheme and carbon tax: A CGE model-based study in China</a>. Environmental Impact Assessment Review 2025;110:107699.</li>   
@@ -619,7 +724,7 @@ body > .container-lg.markdown-body:not(#home1):not(#home2):not(#home3):not(#home
   <li><strong>Jia Z.</strong>, Wen, SY*. <a href="https://doi.org/10.1016/j.eneco.2024.107776">Interaction effects of market-based and incentive-driven low-carbon policies on carbon emissions</a>. Energy Economics 2024;137:107776.</li>
   <li><strong>Jia Z.</strong>, Liu, Y., Lin, B. <a href="https://doi.org/10.1016/j.enpol.2024.114107">The impossible triangle of carbon mitigation policy</a>. Energy Policy 2024;189:114107.</li>
   <li><strong>Jia Z.</strong>, Wu, R., Liu, Y., Wen, S., Lin, B. <a href="https://doi.org/10.1016/j.ecolecon.2024.108163">Can carbon tariffs based on domestic embedded carbon emissions reduce more carbon leakages?</a>. Ecological Economics 2024;220:108163. <strong>(2024-11 ESI HIGHLY CITED PAPER)</strong> </li>
-  <li>Wen, S., <strong>Jia Z.</strong>. <a href="https://doi.org/10.1016/j.jenvman.2024.121186">Call for multi-policy approach: Synergistic effects of emissions trading scheme and energy efficiency policies</a>. Journal of Environmental Management 2024;360:121186.</li>
+  <li>Wen, S., <strong>Jia Z.</strong>*. <a href="https://doi.org/10.1016/j.jenvman.2024.121186">Call for multi-policy approach: Synergistic effects of emissions trading scheme and energy efficiency policies</a>. Journal of Environmental Management 2024;360:121186.</li>
   <li><strong>Jia Z.</strong>, Wen, S., Lin, B. <a href="https://doi.org/10.1016/j.eap.2024.01.015">Would behaviors of state-owned enterprises impact the performance of downstream industries in China?</a>. Economic Analysis and Policy 2024;81:1007–1035.</li>
   <li>Wen S, <strong>Jia Z.*</strong> <a href="https://doi.org/10.1016/j.jclepro.2023.139618">A penny saved is a penny earned : Exploring the synergistic effect between carbon trading and energy carbon-content tax</a>. Journal of Cleaner Production 2023;430:139618.</li>
   <li>Zhou Y., Yang J., <strong>Jia Z.*</strong>.  <a href="https://doi.org/10.1016/j.resourpol.2023.104042">Optimizing energy efficiency investments in steel firms: A real options model considering carbon trading and tax cuts during challenging economic conditions</a>. Resources Policy 2023;85:104042.</li>  
@@ -627,9 +732,9 @@ body > .container-lg.markdown-body:not(#home1):not(#home2):not(#home3):not(#home
   <li><strong>Jia Z.</strong>, Lin, B. <a href="https://doi.org/10.1016/j.resourpol.2023.103641">Primary fossil energy cost and price regulation in energy processing sectors---the perspective of price regulation market with Chinese characteristics</a>. Resources Policy 2023;83, 103641.</li>  
   <li><strong>贾智杰</strong>, 林伯强, 温师燕. <a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJutOehf2D0XouCH-lhM6pGz7s4RFz4DhFPwW_MH-RzaCONfJNHUn-rEffcOUizOVXf&uniplatform=NZKPT">碳排放权交易试点与全要素生产率———兼论波特假说、技术溢出与污染天堂</a>. 经济学动态 2023;03:52-72.</li>  
   <li><strong>Jia Z.</strong>, Wen S., Wang Y. <a href="https://doi.org/10.1016/j.eneco.2023.106544">Power coming from the sky: Economic benefits of inter-regional power transmission in China</a>. Energy Economics 2023;119:106544.</li>  
-  <li><strong>Jia Z.</strong> <a href="https://doi.org/10.1016/j.eneco.2022.106488">The hidden benefit: Emission trading scheme and business performance of downstream enterprises</a>. Energy Economics 2023;117:106488.</li>
+  <li><strong>Jia Z.</strong>* <a href="https://doi.org/10.1016/j.eneco.2022.106488">The hidden benefit: Emission trading scheme and business performance of downstream enterprises</a>. Energy Economics 2023;117:106488.</li>
   <li><strong>Jia Z.</strong>, Lin B., Wen S. <a href="https://doi.org/10.1016/j.apenergy.2022.120164">Electricity market Reform: The perspective of price regulation and carbon neutrality</a>. Applied Energy 2022;328:120164.</li>
-  <li><strong>Jia, Z.</strong> <a href="https://doi.org/10.1016/j.eiar.2022.106950">What kind of enterprises and residents bear more responsibilities in carbon trading? A step-by-step analysis based on the CGE model.</a>. Environmental Impact Assessment Review 2023;98:106950.<strong>(2023-07 ESI HIGHLY CITED PAPER)</strong></li>
+  <li><strong>Jia, Z.</strong>* <a href="https://doi.org/10.1016/j.eiar.2022.106950">What kind of enterprises and residents bear more responsibilities in carbon trading? A step-by-step analysis based on the CGE model.</a>. Environmental Impact Assessment Review 2023;98:106950.<strong>(2023-07 ESI HIGHLY CITED PAPER)</strong></li>
   <li>Wen, S., <strong>Jia, Z.</strong>*. <a href="https://doi.org/10.1016/j.jclepro.2022.133491">Resource curse or resource blessing : Perspective on the nonlinear and regional relationships in China.</a> Journal of Cleaner Production 2022;371:133491.</li>
   <li><strong>Jia Z.</strong>, Wen S., Liu Y. <a href="https://doi.org/10.1016/j.eneco.2022.106193">China’s urban-rural inequality caused by carbon neutrality: A perspective from carbon footprint and decomposed social welfare</a>. Energy Economics 2022;113:106193.</li>
   <li><strong>贾智杰</strong>，林伯强. <a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&amp;dbname=CJFDAUTO&amp;filename=ZGRZ202207016&amp;uniplatform=NZKPT&amp;v=NmkrzrSzHcCnnqA5zFjzB85GfOk2KRLql0iBwQXoSml56TSmPPyzVF43abT7gO7j">国有企业、价格管制与经济稳定——来自中国特色汽柴油市场的视角.</a>. 中国·人口资源与环境 2022;32(07).</li>
@@ -656,7 +761,7 @@ body > .container-lg.markdown-body:not(#home1):not(#home2):not(#home3):not(#home
   <li>Lin B, <strong>Jia Z</strong>. <a href="https://doi.org/10.1016/j.scitotenv.2019.134241">Economic, energy and environmental impact of coal-to-electricity policy in China: A dynamic recursive CGE study</a>. Science of the Total Environment 2020;698:134241. <strong>(2021-09 ESI HIGHLY CITED PAPER)</strong></li>
   <li>Lin B, <strong>Jia Z</strong>*. <a href="https://doi.org/10.1016/j.eneco.2019.104496">How does tax system on energy industries affect energy demand, CO2 emissions, and economy in China?</a> Energy Economics 2019;84:104496.</li>
   <li>Lin B, <strong>Jia Z</strong>. <a href="https://doi.org/10.1016/j.chieco.2019.101307">Tax rate, government revenue and economic performance: A perspective of Laffer curve</a>. China Economic Review 2019;56:101307.</li>
-  <li>Zhang L, Li Y, <strong>Jia Z</strong>. <a href="https://doi.org/10.1016/j.apenergy.2018.08.055">Impact of carbon allowance allocation on power industry in China’s carbon trading market: Computable general equilibrium based analysis</a>. Applied Energy 2018;229:814–27.</li>
+  <li>Zhang L, Li Y, <strong>Jia Z</strong>*. <a href="https://doi.org/10.1016/j.apenergy.2018.08.055">Impact of carbon allowance allocation on power industry in China’s carbon trading market: Computable general equilibrium based analysis</a>. Applied Energy 2018;229:814–27.</li>
   <li>Lin B, <strong>Jia Z</strong>. <a href="https://doi.org/10.1016/j.jclepro.2018.09.079">Transfer payments in emission trading markets: A perspective of rural and urban residents in China</a>. Journal of Cleaner Production 2018;204:753–66.</li>
   <li>Lin B, <strong>Jia Z</strong>. <a href="https://doi.org/10.1016/j.scitotenv.2018.11.106">What are the main factors affecting carbon price in Emission Trading Scheme? A case study in China</a>. Science of the Total Environment 2019;654:525–34.</li>
   <li>Lin B, <strong>Jia Z</strong>. <a href="https://doi.org/10.1016/j.energy.2018.06.167">The energy, environmental and economic impacts of carbon tax rate and taxation industry: A CGE based study in China</a>. Energy 2018;159:558–68.</li>
@@ -667,20 +772,52 @@ body > .container-lg.markdown-body:not(#home1):not(#home2):not(#home3):not(#home
   <li>Li W, <strong>Jia Z</strong>. <a href="https://doi.org/10.1007/s11027-016-9710-3">Carbon tax, emission trading, or the mixed policy: which is the most effective strategy for climate change mitigation in China? </a> Mitigation and Adaptation Strategies for Global Change 2017;22:973–92.</li>
 </ol>
 
-<p>（* 为通讯作者；* represents corresponding author）</p>
+<p class="corresponding-legend">* 为通讯作者 · * represents corresponding author</p>
 
 <hr>
 <h3 id="纵向课题-funds">纵向课题 Funds<a class="anchorjs-link " href="https://zhijie-jia.github.io/#%E7%BA%B5%E5%90%91%E8%AF%BE%E9%A2%98-funds" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
-<ol>
-  <li>国家自然科学基金委员会，《碳中和框架下“煤-电-用”产业链市场化转型研究》，青年项目，主持</li>
-  <li>教育部人文社会科学基金，《碳中和框架下碳定价公平性研究——基于隐含碳排放和社会福利的视角》，青年项目，主持</li>
-  <li>中国博士后科学基金会，  《中国“煤-电”产业链的市场困境与解决方案研究》，主持</li>
-  <li>陕西省社会科学界联合会，《碳中和框架下陕西省能源-环境-经济综合评估模型与碳定价政策评估》，哲学社会科学重大理论与现实问题研究一般项目，主持</li>
-  <li>国家社会科学基金委员会，《实现碳达峰碳中和目标的路径优化、政策引导与风险管控研究》，重点项目，参与</li>
-  <li>国家自然科学基金委员会，《环境规制与中国城市经济绿色转型：基于绿色技术进步和产业结构升级视角的研究》，面上项目，参与人</li>
-  <li>山西省人文社会科学基金，《财政政策支持陕西省绿色技术创新的机理与路径研究》，一般项目，参与</li>
-  <li>教育部人文社会科学基金，《“双碳”目标背景下中国能源基础设施投资的经济增长效应和区域布局研究》，一般项目，参与</li>
-</ol>
+<ul class="bilingual-list fund-list">
+  <li class="bilingual-item">
+    <p class="item-title">国家自然科学基金委员会，《碳中和框架下“煤-电-用”产业链市场化转型研究》</p>
+    <p class="item-translation">National Natural Science Foundation of China, <i>Market-oriented Transformation of the Coal-Power-Use Industrial Chain under the Carbon Neutrality Framework</i></p>
+    <p class="item-meta">青年项目，主持 · Young Scientists Fund, Principal Investigator</p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title">教育部人文社会科学基金，《碳中和框架下碳定价公平性研究——基于隐含碳排放和社会福利的视角》</p>
+    <p class="item-translation">Ministry of Education Humanities and Social Sciences Fund, <i>Equity of Carbon Pricing under the Carbon Neutrality Framework: From the Perspectives of Embodied Carbon Emissions and Social Welfare</i></p>
+    <p class="item-meta">青年项目，主持 · Youth Project, Principal Investigator</p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title">中国博士后科学基金会，《中国“煤-电”产业链的市场困境与解决方案研究》</p>
+    <p class="item-translation">China Postdoctoral Science Foundation, <i>Market Dilemmas and Solutions in China's Coal-Power Industrial Chain</i></p>
+    <p class="item-meta">主持 · Principal Investigator</p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title">陕西省社会科学界联合会，《碳中和框架下陕西省能源-环境-经济综合评估模型与碳定价政策评估》</p>
+    <p class="item-translation">Shaanxi Federation of Social Sciences, <i>Integrated Energy-Environment-Economy Assessment Model and Carbon Pricing Policy Evaluation for Shaanxi Province under the Carbon Neutrality Framework</i></p>
+    <p class="item-meta">哲学社会科学重大理论与现实问题研究一般项目，主持 · General Project on Major Theoretical and Practical Issues in Philosophy and Social Sciences, Principal Investigator</p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title">国家社会科学基金委员会，《实现碳达峰碳中和目标的路径优化、政策引导与风险管控研究》</p>
+    <p class="item-translation">National Social Science Fund of China, <i>Path Optimization, Policy Guidance, and Risk Management for Achieving Carbon Peaking and Carbon Neutrality Goals</i></p>
+    <p class="item-meta">重点项目，参与 · Key Project, Participant</p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title">国家自然科学基金委员会，《环境规制与中国城市经济绿色转型：基于绿色技术进步和产业结构升级视角的研究》</p>
+    <p class="item-translation">National Natural Science Foundation of China, <i>Environmental Regulation and the Green Transformation of Chinese Urban Economies: Perspectives from Green Technological Progress and Industrial Structure Upgrading</i></p>
+    <p class="item-meta">面上项目，参与人 · General Program, Participant</p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title">山西省人文社会科学基金，《财政政策支持陕西省绿色技术创新的机理与路径研究》</p>
+    <p class="item-translation">Shanxi Provincial Humanities and Social Sciences Fund, <i>Mechanisms and Pathways through which Fiscal Policy Supports Green Technological Innovation in Shaanxi Province</i></p>
+    <p class="item-meta">一般项目，参与 · General Project, Participant</p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title">教育部人文社会科学基金，《“双碳”目标背景下中国能源基础设施投资的经济增长效应和区域布局研究》</p>
+    <p class="item-translation">Ministry of Education Humanities and Social Sciences Fund, <i>Economic Growth Effects and Regional Distribution of China's Energy Infrastructure Investment under the Dual Carbon Goals</i></p>
+    <p class="item-meta">一般项目，参与 · General Project, Participant</p>
+  </li>
+</ul>
 
 <hr>
 <h3 id="获奖情况-awards">获奖情况 Awards<a class="anchorjs-link " href="https://zhijie-jia.github.io/#%E8%8E%B7%E5%A5%96%E6%83%85%E5%86%B5-awards" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
@@ -763,21 +900,28 @@ body > .container-lg.markdown-body:not(#home1):not(#home2):not(#home3):not(#home
       <a class="item-link" href="https://github.com/Zhijie-Jia/FEMC_model">GitHub Repository</a>
     </div>
   </li>
-    
-<hr>
-    
-<h3 id="Usage Statement">Usage Statement<a class="anchorjs-link " href="https://zhijie-jia.github.io/#%E5%BC%80%E6%94%BE%E8%8E%B7%E5%8F%96-Usage-Statement" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
-<p>The data and code associated with the publications and made publicly available on this website (and the corresponding GitHub repository) are provided exclusively for <strong>non-commercial academic research and educational purposes</strong>. Any form of commercial use—including but not limited to commercial consulting, product development, paid reports, or internal business analysis—is strictly prohibited without prior written permission from the author.</p>
-<p>When using these data or code for research, analysis, or derivative work, <strong>proper citation is required</strong>. Users must clearly acknowledge the original source, including the relevant publication, author(s), and a link to this project. Any findings or conclusions derived from the use of these materials are solely those of the users and do not represent the views of the original author.</p>
-<p>The author bears no responsibility for any direct or indirect consequences arising from the use of the data or code.</p>
-<p>For commercial use or other special requests, please contact the author in advance.</p>
-<p>本网站（及对应 GitHub 仓库）所公开的论文相关数据与代码，仅供非商业性的学术研究与教学用途。<strong>任何形式的商业使用（包括但不限于商业咨询、商业产品开发、付费报告、企业内部商业分析等）均被严格禁止</strong>，除非事先获得作者的书面许可。</p>
-<p>使用本数据或代码进行研究、分析或衍生工作时，<strong>请明确注明来源并进行规范引用</strong>，包括但不限于引用对应的论文、作者姓名及本项目链接。基于本数据或代码形成的研究成果，其学术观点与结论仅代表使用者本人，与原作者无关。</p>
-<p>作者对因使用本数据或代码所产生的任何直接或间接后果不承担责任。</p>
-<p>如有商业合作或其他特殊使用需求，请提前与作者联系。</p>
+</ul>
 
-    
-</ul>  
+<section class="usage-statement" aria-labelledby="usage-statement-title">
+  <div class="usage-heading">
+    <h3 id="usage-statement-title">使用声明 Usage Statement</h3>
+    <span class="usage-badge">Non-commercial academic use only</span>
+  </div>
+  <div class="usage-grid">
+    <div class="usage-block" lang="en">
+      <h4>English</h4>
+      <p>The data and code associated with the publications and made publicly available on this website and the corresponding GitHub repositories are provided exclusively for <strong>non-commercial academic research and educational purposes</strong>. Any form of commercial use, including but not limited to commercial consulting, product development, paid reports, or internal business analysis, is strictly prohibited without prior written permission from the author.</p>
+      <p>When using these data or code for research, analysis, or derivative work, <strong>proper citation is required</strong>. Users must clearly acknowledge the original source, including the relevant publication, author(s), and a link to this project.</p>
+      <p>The author bears no responsibility for any direct or indirect consequences arising from the use of the data or code. For commercial use or other special requests, please contact the author in advance.</p>
+    </div>
+    <div class="usage-block" lang="zh-CN">
+      <h4>中文</h4>
+      <p>本网站及对应 GitHub 仓库所公开的论文相关数据与代码，仅供<strong>非商业性的学术研究与教学用途</strong>。任何形式的商业使用，包括但不限于商业咨询、商业产品开发、付费报告、企业内部商业分析等，均需事先获得作者的书面许可。</p>
+      <p>使用本数据或代码进行研究、分析或衍生工作时，<strong>请明确注明来源并进行规范引用</strong>，包括但不限于引用对应论文、作者姓名及本项目链接。</p>
+      <p>作者对因使用本数据或代码所产生的任何直接或间接后果不承担责任。如有商业合作或其他特殊使用需求，请提前与作者联系。</p>
+    </div>
+  </div>
+</section>
 </div>
 
   
