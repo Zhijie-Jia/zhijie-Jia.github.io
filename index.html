@@ -312,6 +312,37 @@ body > .container-lg.markdown-body:not(#home1):not(#home2):not(#home3):not(#home
     border-radius: 8px;
 }
 
+.about-profile {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+    align-items: start;
+}
+
+.about-profile__card {
+    padding: 18px;
+    background: #fbfcfc;
+    border: 1px solid var(--line);
+    border-left: 4px solid var(--accent);
+    border-radius: 8px;
+}
+
+.about-profile__card h4 {
+    margin: 0 0 10px;
+    color: var(--accent-dark);
+    font-size: 16px;
+}
+
+.about-profile__card p {
+    margin-bottom: 0;
+    line-height: 1.82;
+}
+
+.reviewer-list .item-translation {
+    font-size: 14.5px;
+    font-weight: 500;
+}
+
 #home4 ol {
     display: grid;
     gap: 10px;
@@ -592,6 +623,10 @@ body > .container-lg.markdown-body:not(#home1):not(#home2):not(#home3):not(#home
     .usage-grid {
         grid-template-columns: 1fr;
     }
+
+    .about-profile {
+        grid-template-columns: 1fr;
+    }
 }
 </style>  
 </head>
@@ -645,57 +680,96 @@ body > .container-lg.markdown-body:not(#home1):not(#home2):not(#home3):not(#home
 
 <div class="container-lg px-3 my-5 markdown-body" id="home2" style="display: none;">
                 <h2>About</h2>
-<h3 id="关于我-about-me">关于我 About me<a class="anchorjs-link " href="https://zhijie-jia.github.io/#%E5%85%B3%E4%BA%8E%E6%88%91-about-me" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
-<p>西安交通大学经济与金融学院副教授。2022、2023年度和全职业生涯全球前2%顶尖科学家（斯坦福大学团队发布，World’s Top 2% Scientists 2022, 2023 and whole career），兼任SCI一区期刊Journal of Cleaner Production副主编。主要研究方向为能源经济学、气候变化经济学和经济社会不平等。主持、参与国家级、省部级课题若干项，获得省级优秀成果奖1项。共发表中文最优/SSCI/SCI等论文50余篇，英文H指数31。中英文文章累计被约4000次；累计多篇论文入选ESI高被引论文。代表性成果发表在《经济研究》、Ecological Economics、Energy Economics、Technological Forecasting and Social Change、Applied Energy等期刊中。为Nature Energy, Journal of Environmental Economics and Management, Ecological Economics, Energy Economics, Energy Policy等杂志的审稿人。</p>
-
-<p>Zhijie Jia is an Associate Professor at the School of Economics and Finance, Xi'an Jiaotong University. He has been recognized as one of the top 2% of scientists globally for the years 2022 and 2023, as well as for his entire career, by a team from Stanford University (World’s Top 2% Scientists 2022, 2023 and whole career). Additionally, he serves as the Associate Editor for the SCI Q1 journal, Journal of Cleaner Production. His primary research interests include energy economics, the economics of climate change, and economic and social inequality. He has led and participated in several national and provincial-level projects, receiving one provincial-level award for outstanding achievements. He has published over 50 papers in top-tier Chinese, SSCI, and SCI journals, achieving an H-index of 31 in English. His works have been cited about 4000 times collectively, with multiple papers recognized as highly cited in the ESI database. His representative works have been published in journals such as Jingji Yanjiu (Economic Research), Ecological Economics, Energy Economics, Technological Forecasting and Social Change, and Applied Energy. He also serves as a reviewer for prestigious journals including Nature Energy, Journal of Environmental Economics and Management, Ecological Economics, Energy Economics, and Energy Policy.</p>
+<h3 id="关于我-about-me">关于我 About Me</h3>
+<div class="about-profile">
+  <div class="about-profile__card" lang="zh-CN">
+    <h4>中文</h4>
+    <p>西安交通大学经济与金融学院副教授。2022、2023年度和全职业生涯全球前2%顶尖科学家（斯坦福大学团队发布，World’s Top 2% Scientists 2022, 2023 and whole career），兼任SCI一区期刊Journal of Cleaner Production副主编。主要研究方向为能源经济学、气候变化经济学和发展经济学。主持、参与国家级、省部级课题若干项，获得省级优秀成果奖1项。共发表中文最优/SSCI/SCI等论文50余篇，英文H指数31。中英文文章累计被约4000次；累计多篇论文入选ESI高被引论文。代表性成果发表在《经济研究》、Ecological Economics、Energy Economics、Technological Forecasting and Social Change、Applied Energy等期刊中。为Nature Energy, Journal of Environmental Economics and Management, Ecological Economics, Energy Economics, Energy Policy等杂志的审稿人。</p>
+  </div>
+  <div class="about-profile__card" lang="en">
+    <h4>English</h4>
+    <p>Zhijie Jia is an Associate Professor at the School of Economics and Finance, Xi'an Jiaotong University. He has been recognized as one of the World's Top 2% Scientists for 2022, 2023, and whole-career impact by the Stanford University team. He also serves as Associate Editor of the SCI Q1 journal <i>Journal of Cleaner Production</i>. His research focuses on energy economics, climate-change economics, and development economics. He has led and participated in several national and provincial research projects and has received one provincial award for outstanding research achievement. He has published more than 50 papers in leading Chinese journals and SSCI/SCI journals, with an English H-index of 31 and about 4,000 cumulative citations. Several of his papers have been selected as ESI Highly Cited Papers. His representative work has appeared in <i>Economic Research Journal</i>, <i>Ecological Economics</i>, <i>Energy Economics</i>, <i>Technological Forecasting and Social Change</i>, and <i>Applied Energy</i>. He reviews for journals including <i>Nature Energy</i>, <i>Journal of Environmental Economics and Management</i>, <i>Ecological Economics</i>, <i>Energy Economics</i>, and <i>Energy Policy</i>.</p>
+  </div>
+</div>
 
 <hr>
-<h3 id="工作经历-working-experience">工作经历 Working Experience<a class="anchorjs-link " href="https://zhijie-jia.github.io/#%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%8E%86-working-experience" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
-  
-<p>2025至今，西安交通大学经济与金融学院，副教授</p>
-<p>2025-2026，新加坡国立大学，访问学者</p>  
-<p>2021-2025，西安交通大学经济与金融学院，助理教授</p>
+<h3 id="工作经历-working-experience">工作经历 Working Experience</h3>
+<ul class="bilingual-list">
+  <li class="bilingual-item">
+    <p class="item-title">2025至今，西安交通大学经济与金融学院，副教授</p>
+    <p class="item-translation">July 2025 to present, Associate Professor, School of Economics and Finance, Xi'an Jiaotong University</p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title">2025-2026，新加坡国立大学，访问学者</p>
+    <p class="item-translation">July 2025 to 2026, Visiting Professor, School of Civil and Environmental Engineering, National University of Singapore</p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title">2021-2025，西安交通大学经济与金融学院，助理教授</p>
+    <p class="item-translation">July 2021 to 2025, Assistant Professor, School of Economics and Finance, Xi'an Jiaotong University</p>
+  </li>
+</ul>
     
-<p>July 2025 to now, Associate Professor, School of Economics and Finance, Xi’an Jiaotong University</p>
-<p>July 2025 to 2026, Visiting Professor, School of Civil and Environmental Engineering, National University of Singapore</p>
-<p>July 2021 to 2025, Assistant Professor, School of Economics and Finance, Xi’an Jiaotong University</p>    
-    
 <hr>
-<h3 id="授课经历-teaching-experience">授课经历 Teaching Experience<a class="anchorjs-link " href="https://zhijie-jia.github.io/#%E6%8E%88%E8%AF%BE%E7%BB%8F%E5%8E%86-teaching-experience" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
-<p>《统计学》、《微观经济学》（英文授课）、《宏观经济学》（英文授课）、《资源与环境经济学》</p>
-
-<p>Statistics, Microeconomics (English Teaching), Macroeconomics (English Teaching), Resource and Environmental Economics</p>
-
-<hr>
-<h3 id="学术兼职-academic-membership">学术兼职 Academic Membership<a class="anchorjs-link " href="https://zhijie-jia.github.io/#%E5%AD%A6%E6%9C%AF%E5%85%BC%E8%81%8C-academic-membership" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
-
-<ul>
-  <li>2024-至今，Journal of Cleaner Production，副主编</li>
-  <li>2021-2022，The International Association for Energy Economics (IAEE)，会员</li>
-  <li>2021-2022，Sustainability，客座编辑</li>
-  <li>2022-2026，中国能源协会专家委员会，委员</li>
-  <li>2022-至今，Frontiers in Sustainable Energy Policy，评议编辑</li>
-<br>
-  <li>2024- now，Journal of Cleaner Production，Associate Editor</li>
-  <li>2021-2022，The International Association for Energy Economics (IAEE)，membership</li>
-  <li>2021-2022，Sustainability，Guest Editor</li>
-  <li>2022-2026，Expert Committee of China Energy Society，Committee Member</li>
-  <li>2022- now，Frontiers in Sustainable Energy Policy，Review Editor</li>
+<h3 id="授课经历-teaching-experience">授课经历 Teaching Experience</h3>
+<ul class="bilingual-list">
+  <li class="bilingual-item">
+    <p class="item-title">《统计学》</p>
+    <p class="item-translation">Statistics</p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title">《微观经济学》（英文授课）</p>
+    <p class="item-translation">Microeconomics (taught in English)</p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title">《宏观经济学》（英文授课）</p>
+    <p class="item-translation">Macroeconomics (taught in English)</p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title">《资源与环境经济学》</p>
+    <p class="item-translation">Resource and Environmental Economics</p>
+  </li>
 </ul>
 
 <hr>
-<h3 id="期刊评审-journal-reviewer">期刊评审 Journal Reviewer<a class="anchorjs-link " href="https://zhijie-jia.github.io/#%E6%9C%9F%E5%88%8A%E8%AF%84%E5%AE%A1-journal-reviewer" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
-
-<ul>
-  <li>SSCI期刊：<em>Journal of Environmental Economics and Management, the Energy Journal, Energy Economics, Ecological Economics, Technological Forecasting & Social Change, Energy Policy, China Economic Review, Economics Letters, International Review of Financial Analysis, Applied Economics, Business Strategy and the Environment, Land, Humanities and Social Sciences Communications, Climate Policy, Emerging Market Finance and Trade, Energy Strategy Review, Journal of Environmental Management, Contemporary Economic Policy, Sustainable Development, Resources Policy, Environmental Impact Assessment Review, Journal of Global Information Management, International Review of Economics And Finance, Carbon Management, Sustainable Production and Consumption, Environmental Science and Pollution Research, Australian Journal of Agricultural and Resource Economics, African Development Review, Economic Analysis and Policy, Finance Research Letters, Journal of Regional Science，Managerial and Decision Economics, Economic Systems Research, Technology Analysis & Strategic Management, Structural Change and Economic Dynamics </em></li>
-  <li>
-    <p>SCI期刊：<em>Nature Energy, One Earth, Nature Communications, Applied Energy, Resources, Conservation & Recycling, Journal of Cleaner Production, Energy, Science of the Total Environment, Journal of Chemistry, Environmental Research, Journal of Environmental and Public Health, Scientific Reports, Plos One, Atmospheric Pollution Research</em></p>
+<h3 id="学术兼职-academic-membership">学术兼职 Academic Membership</h3>
+<ul class="bilingual-list">
+  <li class="bilingual-item">
+    <p class="item-title">2024至今，Journal of Cleaner Production，副主编</p>
+    <p class="item-translation">2024 to present, <i>Journal of Cleaner Production</i>, Associate Editor</p>
   </li>
-  <li><p>核心期刊：<em>数量经济技术经济研究，经济学动态，管理学报，管理评论</em></p></li>
-  <li>SSCI-indexed Journal: <em>Journal of Environmental Economics and Management, the Energy Journal, Energy Economics, Ecological Economics, Technological Forecasting & Social Change, Energy Policy, China Economic Review, Economics Letters, International Review of Financial Analysis, Applied Economics, Land, Humanities and Social Sciences Communications, Climate Policy, Emerging Market Finance and Trade, Energy Strategy Review, Journal of Environmental Management, Contemporary Economic Policy, Sustainable Development, Resources Policy, Environmental Impact Assessment Review, Journal of Global Information Management, International Review of Economics And Finance, Carbon Management, Sustainable Production and Consumption, Environmental Science and Pollution Research, Australian Journal of Agricultural and Resource Economics, African Development Review, Economic Analysis and Policy, Finance Research Letters, Journal of Regional Science, Managerial and Decision Economics, Economic Systems Research, Technology Analysis & Strategic Management, Structural Change and Economic Dynamics </em></li>
-  <li>SCI-indexed Journal: <em>Nature Energy, One Earth, Nature Communications, Applied Energy, Resources, Conservation & Recycling, Journal of Cleaner Production, Energy, Science of the Total Environment, Journal of Chemistry, Environmental Research, Journal of Environmental and Public Health, Scientific Reports, Plos One, Atmospheric Pollution Research</em></li>
-  <li><p>CSSCI-indexed journal：<em>数量经济技术经济研究，经济学动态，管理学报，管理评论</em></p></li>
+  <li class="bilingual-item">
+    <p class="item-title">2021-2022，The International Association for Energy Economics (IAEE)，会员</p>
+    <p class="item-translation">2021-2022, The International Association for Energy Economics (IAEE), Member</p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title">2021-2022，Sustainability，客座编辑</p>
+    <p class="item-translation">2021-2022, <i>Sustainability</i>, Guest Editor</p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title">2022-2026，中国能源协会专家委员会，委员</p>
+    <p class="item-translation">2022-2026, Expert Committee of China Energy Society, Committee Member</p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title">2022至今，Frontiers in Sustainable Energy Policy，评议编辑</p>
+    <p class="item-translation">2022 to present, <i>Frontiers in Sustainable Energy Policy</i>, Review Editor</p>
+  </li>
+</ul>
+
+<hr>
+<h3 id="期刊评审-journal-reviewer">期刊评审 Journal Reviewer</h3>
+<ul class="bilingual-list reviewer-list">
+  <li class="bilingual-item">
+    <p class="item-title">SSCI期刊 · SSCI-indexed Journals</p>
+    <p class="item-translation"><em>Journal of Environmental Economics and Management, The Energy Journal, Energy Economics, Ecological Economics, Technological Forecasting &amp; Social Change, Energy Policy, China Economic Review, Economics Letters, International Review of Financial Analysis, Applied Economics, Business Strategy and the Environment, Land, Humanities and Social Sciences Communications, Climate Policy, Emerging Market Finance and Trade, Energy Strategy Review, Journal of Environmental Management, Contemporary Economic Policy, Sustainable Development, Resources Policy, Environmental Impact Assessment Review, Journal of Global Information Management, International Review of Economics and Finance, Carbon Management, Sustainable Production and Consumption, Environmental Science and Pollution Research, Australian Journal of Agricultural and Resource Economics, African Development Review, Economic Analysis and Policy, Finance Research Letters, Journal of Regional Science, Managerial and Decision Economics, Economic Systems Research, Technology Analysis &amp; Strategic Management, Structural Change and Economic Dynamics</em></p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title">SCI期刊 · SCI-indexed Journals</p>
+    <p class="item-translation"><em>Nature Energy, One Earth, Nature Communications, Applied Energy, Resources, Conservation &amp; Recycling, Journal of Cleaner Production, Energy, Science of the Total Environment, Journal of Chemistry, Environmental Research, Journal of Environmental and Public Health, Scientific Reports, PLOS ONE, Atmospheric Pollution Research</em></p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title">核心期刊 · CSSCI-indexed / Leading Chinese Journals</p>
+    <p class="item-translation"><em>数量经济技术经济研究，经济学动态，管理学报，管理评论</em></p>
+  </li>
 </ul>
 
 </div>
