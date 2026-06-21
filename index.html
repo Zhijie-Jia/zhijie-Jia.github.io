@@ -154,6 +154,33 @@ a:hover {
     font-weight: 650;
 }
 
+.hero-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 24px;
+}
+
+.hero-actions a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 38px;
+    padding: 0 13px;
+    color: #fff;
+    background: rgba(255, 255, 255, 0.14);
+    border: 1px solid rgba(255, 255, 255, 0.42);
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.hero-actions a:hover {
+    color: #12313a;
+    background: #f7d58b;
+    border-color: #f7d58b;
+}
+
 .hero-avatar {
     width: 158px;
     height: 158px;
@@ -338,9 +365,95 @@ body > .container-lg.markdown-body:not(#home1):not(#home2):not(#home3):not(#home
     line-height: 1.82;
 }
 
+.home-intro-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1.1fr) minmax(280px, 0.9fr);
+    gap: 16px;
+    margin-bottom: 26px;
+}
+
+.home-panel {
+    padding: 18px;
+    background: #fbfcfc;
+    border: 1px solid var(--line);
+    border-left: 4px solid var(--accent);
+    border-radius: 8px;
+}
+
+.home-panel h3 {
+    margin-top: 0;
+    color: var(--accent-dark);
+}
+
+.profile-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 14px;
+}
+
+.profile-links a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 34px;
+    padding: 0 11px;
+    color: var(--accent-dark);
+    background: var(--soft);
+    border: 1px solid #cfe1df;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 650;
+    text-decoration: none;
+}
+
+.profile-links a:hover {
+    color: #fff;
+    background: var(--accent);
+    border-color: var(--accent);
+}
+
+.compact-facts {
+    display: grid;
+    gap: 7px;
+    margin: 0 !important;
+    padding-left: 0 !important;
+    list-style: none !important;
+}
+
+.compact-facts li {
+    padding: 0 !important;
+    background: transparent !important;
+    border: 0 !important;
+    color: #25313d;
+    line-height: 1.65;
+}
+
 .reviewer-list .item-translation {
     font-size: 14.5px;
     font-weight: 500;
+}
+
+.reviewer-details {
+    margin-top: 10px;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    background: #fbfcfc;
+    overflow: hidden;
+}
+
+.reviewer-details > summary {
+    padding: 14px 16px;
+    color: var(--accent-dark);
+    cursor: pointer;
+    font-weight: 750;
+}
+
+.reviewer-details[open] > summary {
+    border-bottom: 1px solid var(--line);
+}
+
+.reviewer-details .bilingual-list {
+    margin: 14px !important;
 }
 
 #home4 ol {
@@ -579,6 +692,15 @@ body > .container-lg.markdown-body:not(#home1):not(#home2):not(#home3):not(#home
         text-align: center;
     }
 
+    .hero-actions {
+        justify-content: center;
+    }
+
+    .hero-actions a {
+        min-height: 36px;
+        padding: 0 11px;
+    }
+
     .hero-avatar {
         justify-self: center;
         width: 128px;
@@ -627,6 +749,10 @@ body > .container-lg.markdown-body:not(#home1):not(#home2):not(#home3):not(#home
     .about-profile {
         grid-template-columns: 1fr;
     }
+
+    .home-intro-grid {
+        grid-template-columns: 1fr;
+    }
 }
 </style>  
 </head>
@@ -645,6 +771,13 @@ body > .container-lg.markdown-body:not(#home1):not(#home2):not(#home3):not(#home
                 <span>CGE Modeling</span>
                 <span>Top 2% Scientists</span>
             </div>
+            <div class="hero-actions" aria-label="Profile shortcuts">
+                <a href="mailto:zjjia_cn@163.com">Email</a>
+                <a href="https://orcid.org/0000-0003-4569-5558">ORCID</a>
+                <a href="https://www.scopus.com/authid/detail.uri?authorId=57183510300">Scopus</a>
+                <a href="#archive" onclick="fn4(); return false;">Publications</a>
+                <a href="#open" onclick="fn5(); return false;">Open Access</a>
+            </div>
         </div>
         <img class="hero-avatar" src="https://avatars.githubusercontent.com/u/91136898?s=400&u=dc18d7e52c902786991b15748b8c4e4ff2ba5006&v=4" alt="Zhijie Jasper Jia">
     </div>
@@ -661,16 +794,68 @@ body > .container-lg.markdown-body:not(#home1):not(#home2):not(#home3):not(#home
 
 <div class="container-lg px-3 my-5 markdown-body" id="home1" style="display: block;">
                 <h2>Home</h2>
-<div align="middle">
-<img src="https://avatars.githubusercontent.com/u/91136898?s=400&u=dc18d7e52c902786991b15748b8c4e4ff2ba5006&v=4" width="18%">
+<div class="home-intro-grid">
+  <section class="home-panel">
+    <h3>Profile Links</h3>
+    <p>Associate Professor at Xi'an Jiaotong University, working on energy economics, climate policy, CGE modelling, and development economics.</p>
+    <div class="profile-links" aria-label="Academic profile links">
+      <a href="mailto:zjjia_cn@163.com">Email</a>
+      <a href="https://www.webofscience.com/wos/author/record/E-7122-2017">Web of Science</a>
+      <a href="https://orcid.org/0000-0003-4569-5558">ORCID</a>
+      <a href="https://www.scopus.com/authid/detail.uri?authorId=57183510300">Scopus</a>
+      <a href="https://www.researchgate.net/profile/Zhijie-Jia">ResearchGate</a>
+    </div>
+  </section>
+  <section class="home-panel">
+    <h3>Quick Facts</h3>
+    <ul class="compact-facts">
+      <li><strong>ResearcherID:</strong> E-7122-2017</li>
+      <li><strong>ORCID:</strong> 0000-0003-4569-5558</li>
+      <li><strong>Scopus Author ID:</strong> 57183510300</li>
+      <li><strong>Academic service:</strong> Associate Editor, <i>Journal of Cleaner Production</i></li>
+    </ul>
+  </section>
 </div>
 
-<p align="middle">zjjia_cn@163.com; zhijie_jia@xjtu.edu.cn</p>
-<p align="middle">Web of Science ResearcherID: E-7122-2017</p>
-<p align="middle">ORCID: 0000-0003-4569-5558</p>
-<p align="middle">Scopus Author ID: 57183510300</p>
-<p align="middle">ResearchGate: https://www.researchgate.net/profile/Zhijie-Jia</p>
-<p align="middle">个人主页 Personal Homepage: https://zhijie-jia.github.io/</p>
+<h3 id="selected-publications">代表性成果 Selected Publications</h3>
+<ul class="bilingual-list">
+  <li class="bilingual-item">
+    <p class="item-title">贾智杰. <a href="http://www.jqte.net/sljjjsjjyj/ch/reader/view_abstract.aspx?file_no=20260103&amp;flag=1">收入差距、边际消费倾向与财政政策效果——基于中国财政政策评估模型的分析</a>. 数量经济技术经济研究 2026;(01).</p>
+    <p class="item-translation"><strong>Jia, Z.</strong> Income inequality, marginal propensity to consume, and fiscal policy effects: Evidence from a Chinese fiscal policy evaluation model. <i>The Journal of Quantitative &amp; Technical Economics</i> 2026;(01).</p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title">杨莉莎, 朱俊鹏, <strong>贾智杰</strong>*. <a href="http://www.erj.cn/cn/mlInfo.aspx?m=20190130093538450747&amp;n=20191119110805457073&amp;tip=2">中国碳减排实现的影响因素和当前挑战——基于技术进步的视角</a>. 经济研究 2019;11:118–32.</p>
+    <p class="item-translation">Yang, L., Zhu, J., <strong>Jia, Z.</strong>* Influencing factors and current challenges of China's carbon emission reduction: From the perspective of technological progress. <i>Economic Research Journal</i> 2019;11:118–32.</p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title"><strong>Jia Z.</strong>, Lin, B. <a href="https://doi.org/10.1016/j.eneco.2022.106117">CEEEA2.0 model: A dynamic CGE model for energy-environment-economy analysis with available data and code</a>. <i>Energy Economics</i> 2022;112:106117.</p>
+    <p class="item-meta">ESI Highly Cited Paper · Open data and code</p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title"><strong>Jia Z.</strong>, Wu, R., Liu, Y., Wen, S., Lin, B. <a href="https://doi.org/10.1016/j.ecolecon.2024.108163">Can carbon tariffs based on domestic embedded carbon emissions reduce more carbon leakages?</a> <i>Ecological Economics</i> 2024;220:108163.</p>
+    <p class="item-meta">ESI Highly Cited Paper</p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title"><strong>Jia Z.</strong>, Liu, Y., Wu, R., Wen, S., Zhang, H., Lin, B. <a href="https://doi.org/10.1016/j.eneco.2025.108444">Optimal policy packages under policy and preference heterogeneities to address climate change</a>. <i>Energy Economics</i> 2025;145:108444.</p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title"><strong>Jia Z.</strong>, Wen, S.Y.* <a href="https://doi.org/10.1016/j.eneco.2024.107776">Interaction effects of market-based and incentive-driven low-carbon policies on carbon emissions</a>. <i>Energy Economics</i> 2024;137:107776.</p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title"><strong>Jia, Z.</strong>* <a href="https://doi.org/10.1016/j.eiar.2022.106950">What kind of enterprises and residents bear more responsibilities in carbon trading? A step-by-step analysis based on the CGE model</a>. <i>Environmental Impact Assessment Review</i> 2023;98:106950.</p>
+    <p class="item-meta">ESI Highly Cited Paper</p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title"><strong>Jia Z.</strong>*, Wen, S., Sun, Z. <a href="https://doi.org/10.1016/j.enpol.2022.112812">Current relationship between coal consumption and the economic development and China’s future carbon mitigation policies</a>. <i>Energy Policy</i> 2022;162:112812.</p>
+    <p class="item-meta">ESI Highly Cited Paper</p>
+  </li>
+  <li class="bilingual-item">
+    <p class="item-title"><strong>Jia Z.</strong>, Lin, B. <a href="https://doi.org/10.1016/j.techfore.2020.120187">Rethinking the choice of carbon tax and carbon trading in China</a>. <i>Technological Forecasting and Social Change</i> 2020;159:120187.</p>
+    <p class="item-meta">ESI Highly Cited Paper</p>
+  </li>
+</ul>
+
+<p class="corresponding-legend">完整论文列表见 Archive · Full publication list is available in Archive.</p>
 
 </div>
 
@@ -684,11 +869,11 @@ body > .container-lg.markdown-body:not(#home1):not(#home2):not(#home3):not(#home
 <div class="about-profile">
   <div class="about-profile__card" lang="zh-CN">
     <h4>中文</h4>
-    <p>西安交通大学经济与金融学院副教授。入选斯坦福大学团队发布的 2022、2023 年度及全职业生涯全球前 2% 顶尖科学家榜单，兼任 SCI 一区期刊 Journal of Cleaner Production 副主编。主要研究方向为能源经济学、气候变化经济学和发展经济学。主持并参与多项国家级、省部级科研项目，获省级优秀成果奖 1 项。已在中文权威期刊及 SSCI/SCI 期刊发表论文 50 余篇，英文论文 H 指数为 31，中英文论文累计被引约 4000 次，多篇论文入选 ESI 高被引论文。代表性成果发表于《经济研究》、Ecological Economics、Energy Economics、Technological Forecasting and Social Change、Applied Energy 等期刊。担任 Nature Energy, Journal of Environmental Economics and Management, Ecological Economics, Energy Economics, Energy Policy 等期刊审稿人。</p>
+    <p>西安交通大学经济与金融学院副教授，主要研究方向为能源经济学、气候变化经济学和发展经济学。入选斯坦福大学团队发布的 2022、2023 年度及全职业生涯全球前 2% 顶尖科学家榜单，兼任 SCI 一区期刊 <i>Journal of Cleaner Production</i> 副主编。主持并参与多项国家级、省部级科研项目，获省级优秀成果奖 1 项。已在中文权威期刊及 SSCI/SCI 期刊发表论文 50 余篇，英文论文 H 指数为 31，中英文论文累计被引约 4000 次，多篇论文入选 ESI 高被引论文。代表性成果发表于《经济研究》《数量经济技术经济研究》、<i>Ecological Economics</i>、<i>Energy Economics</i>、<i>Technological Forecasting and Social Change</i>、<i>Applied Energy</i> 等期刊。担任 <i>Nature Energy</i>、<i>Journal of Environmental Economics and Management</i>、<i>Ecological Economics</i>、<i>Energy Economics</i>、<i>Energy Policy</i> 等期刊审稿人。</p>
   </div>
   <div class="about-profile__card" lang="en">
     <h4>English</h4>
-    <p>Zhijie Jia is an Associate Professor at the School of Economics and Finance, Xi'an Jiaotong University. He has been listed in the Stanford University team's World's Top 2% Scientists rankings for 2022, 2023, and career-long impact. He also serves as Associate Editor of <i>Journal of Cleaner Production</i>, an SCI Q1 journal. His research focuses on energy economics, climate change economics, and development economics. He has led and participated in multiple national and provincial research projects and received a provincial award for outstanding research achievements. He has published more than 50 papers in leading Chinese journals and SSCI/SCI-indexed journals. His English-language publications have an H-index of 31, and his work in Chinese and English has received about 4,000 citations in total. Several of his papers have been selected as ESI Highly Cited Papers. His representative work has appeared in <i>Economic Research Journal</i>, <i>Ecological Economics</i>, <i>Energy Economics</i>, <i>Technological Forecasting and Social Change</i>, and <i>Applied Energy</i>. He has reviewed for journals including <i>Nature Energy</i>, <i>Journal of Environmental Economics and Management</i>, <i>Ecological Economics</i>, <i>Energy Economics</i>, and <i>Energy Policy</i>.</p>
+    <p>Zhijie Jasper Jia is an Associate Professor at the School of Economics and Finance, Xi'an Jiaotong University. His research examines energy economics, climate policy, CGE modelling, and development economics, with a particular focus on the economic and distributional effects of low-carbon transitions. He has been listed in the World's Top 2% Scientists rankings released by the Stanford University team for 2022, 2023, and career-long impact, and serves as Associate Editor of <i>Journal of Cleaner Production</i>. He has led and participated in multiple national and provincial research projects, received a provincial award for outstanding research achievements, and published more than 50 papers in leading Chinese journals and SSCI/SCI-indexed journals. His English-language publications have an H-index of 31, and his work in Chinese and English has received about 4,000 citations in total. His representative publications have appeared in <i>Economic Research Journal</i>, <i>The Journal of Quantitative &amp; Technical Economics</i>, <i>Ecological Economics</i>, <i>Energy Economics</i>, <i>Technological Forecasting and Social Change</i>, and <i>Applied Energy</i>. He has reviewed for journals including <i>Nature Energy</i>, <i>Journal of Environmental Economics and Management</i>, <i>Ecological Economics</i>, <i>Energy Economics</i>, and <i>Energy Policy</i>.</p>
   </div>
 </div>
 
@@ -700,8 +885,8 @@ body > .container-lg.markdown-body:not(#home1):not(#home2):not(#home3):not(#home
     <p class="item-translation">July 2025-present, Associate Professor, School of Economics and Finance, Xi'an Jiaotong University</p>
   </li>
   <li class="bilingual-item">
-    <p class="item-title">2025-2026年，新加坡国立大学，访问学者</p>
-    <p class="item-translation">July 2025-2026, Visiting Professor, School of Civil and Environmental Engineering, National University of Singapore</p>
+    <p class="item-title">2025-2026年，新加坡国立大学，Academic Visitor（访问学者）</p>
+    <p class="item-translation">July 2025-2026, Academic Visitor, School of Civil and Environmental Engineering, National University of Singapore</p>
   </li>
   <li class="bilingual-item">
     <p class="item-title">2021-2025年，西安交通大学经济与金融学院，助理教授</p>
@@ -757,20 +942,23 @@ body > .container-lg.markdown-body:not(#home1):not(#home2):not(#home3):not(#home
 
 <hr>
 <h3 id="期刊评审-journal-reviewer">期刊评审 Journal Reviewing</h3>
-<ul class="bilingual-list reviewer-list">
-  <li class="bilingual-item">
-    <p class="item-title">SSCI期刊 · SSCI-indexed Journals</p>
-    <p class="item-translation"><em>Journal of Environmental Economics and Management, The Energy Journal, Energy Economics, Ecological Economics, Technological Forecasting &amp; Social Change, Energy Policy, China Economic Review, Economics Letters, International Review of Financial Analysis, Applied Economics, Business Strategy and the Environment, Land, Humanities and Social Sciences Communications, Climate Policy, Emerging Market Finance and Trade, Energy Strategy Review, Journal of Environmental Management, Contemporary Economic Policy, Sustainable Development, Resources Policy, Environmental Impact Assessment Review, Journal of Global Information Management, International Review of Economics and Finance, Carbon Management, Sustainable Production and Consumption, Environmental Science and Pollution Research, Australian Journal of Agricultural and Resource Economics, African Development Review, Economic Analysis and Policy, Finance Research Letters, Journal of Regional Science, Managerial and Decision Economics, Economic Systems Research, Technology Analysis &amp; Strategic Management, Structural Change and Economic Dynamics</em></p>
-  </li>
-  <li class="bilingual-item">
-    <p class="item-title">SCI期刊 · SCI-indexed Journals</p>
-    <p class="item-translation"><em>Nature Energy, One Earth, Nature Communications, Applied Energy, Resources, Conservation &amp; Recycling, Journal of Cleaner Production, Energy, Science of the Total Environment, Journal of Chemistry, Environmental Research, Journal of Environmental and Public Health, Scientific Reports, PLOS ONE, Atmospheric Pollution Research</em></p>
-  </li>
-  <li class="bilingual-item">
-    <p class="item-title">核心期刊 · CSSCI-indexed / Leading Chinese Journals</p>
-    <p class="item-translation"><em>数量经济技术经济研究，经济学动态，管理学报，管理评论</em></p>
-  </li>
-</ul>
+<details class="reviewer-details">
+  <summary>Selected journals reviewed for · 点击展开完整期刊评审列表</summary>
+  <ul class="bilingual-list reviewer-list">
+    <li class="bilingual-item">
+      <p class="item-title">SSCI期刊 · SSCI-indexed Journals</p>
+      <p class="item-translation"><em>Journal of Environmental Economics and Management, The Energy Journal, Energy Economics, Ecological Economics, Technological Forecasting &amp; Social Change, Energy Policy, China Economic Review, Economics Letters, International Review of Financial Analysis, Applied Economics, Business Strategy and the Environment, Land, Humanities and Social Sciences Communications, Climate Policy, Emerging Market Finance and Trade, Energy Strategy Review, Journal of Environmental Management, Contemporary Economic Policy, Sustainable Development, Resources Policy, Environmental Impact Assessment Review, Journal of Global Information Management, International Review of Economics and Finance, Carbon Management, Sustainable Production and Consumption, Environmental Science and Pollution Research, Australian Journal of Agricultural and Resource Economics, African Development Review, Economic Analysis and Policy, Finance Research Letters, Journal of Regional Science, Managerial and Decision Economics, Economic Systems Research, Technology Analysis &amp; Strategic Management, Structural Change and Economic Dynamics</em></p>
+    </li>
+    <li class="bilingual-item">
+      <p class="item-title">SCI期刊 · SCI-indexed Journals</p>
+      <p class="item-translation"><em>Nature Energy, One Earth, Nature Communications, Applied Energy, Resources, Conservation &amp; Recycling, Journal of Cleaner Production, Energy, Science of the Total Environment, Journal of Chemistry, Environmental Research, Journal of Environmental and Public Health, Scientific Reports, PLOS ONE, Atmospheric Pollution Research</em></p>
+    </li>
+    <li class="bilingual-item">
+      <p class="item-title">核心期刊 · CSSCI-indexed / Leading Chinese Journals</p>
+      <p class="item-translation"><em>数量经济技术经济研究，经济学动态，管理学报，管理评论</em></p>
+    </li>
+  </ul>
+</details>
 
 </div>
 
